@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.aftersss.mockitohelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.aftersss.mockitohelper.MyBundle
 
 class MyApplicationService {
 
